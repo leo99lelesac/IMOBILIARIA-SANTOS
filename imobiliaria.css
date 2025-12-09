@@ -98,6 +98,7 @@ body{
     text-align: justify;
     padding-top: 50px;
     padding-bottom: 50px;
+    list-style:none;
 }
 
 .p5{
@@ -172,4 +173,5 @@ iframe{
     font-weight: bold;
     color: #fff81b;
 }
+
 
